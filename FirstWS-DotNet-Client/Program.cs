@@ -9,13 +9,13 @@ namespace FirstWS_DotNet_Client
         static void Main(string[] args)
         {
             BanqueService stub = new BanqueServiceClient();
-            convertRequest code1 = new convertRequest(5);
+            convertRequest code1 = new convertRequest(50);
             convertResponse res1 = stub.convert(code1);
-            Console.WriteLine(res1.@return);
+            Console.WriteLine("50 euro is " + res1.@return + " Mad");
             getCompteRequest code2 = new getCompteRequest(2);
             getCompteResponse res2 = stub.getCompte(code2);
             compte cpt = res2.@return;
-            Console.WriteLine("----------------------");
+            Console.WriteLine("--------- Convert Methode  -------------");
             Console.WriteLine("Compte : " + cpt.code + " => " + cpt.solde + " Mad");
             Console.WriteLine("---------  Comptes -------------");
             getComptesResponse res3 = stub.getComptes(new getComptesRequest());

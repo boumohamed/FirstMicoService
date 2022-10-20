@@ -1910,11 +1910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5IIR\\jee\\FirstWS-DotNet-Client\\FirstWS-DotNet-Client.csproj",
+      "projectUniqueName": "D:\\5IIR\\jee\\FirstMicroService\\FirstWS-DotNet-Client\\FirstWS-DotNet-Client.csproj",
       "projectName": "FirstWS-DotNet-Client",
-      "projectPath": "D:\\5IIR\\jee\\FirstWS-DotNet-Client\\FirstWS-DotNet-Client.csproj",
+      "projectPath": "D:\\5IIR\\jee\\FirstMicroService\\FirstWS-DotNet-Client\\FirstWS-DotNet-Client.csproj",
       "packagesPath": "C:\\Users\\BZR-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\5IIR\\jee\\FirstWS-DotNet-Client\\obj\\",
+      "outputPath": "D:\\5IIR\\jee\\FirstMicroService\\FirstWS-DotNet-Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BZR-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
