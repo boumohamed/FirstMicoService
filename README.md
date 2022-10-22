@@ -10,5 +10,10 @@
 ![image](https://user-images.githubusercontent.com/62290643/197061687-fb9b876e-4bcc-4d33-990b-88b74fa1edf2.png)
 ## Dot Net Client
 ![image](https://user-images.githubusercontent.com/62290643/197062992-7c27f70e-8ea0-425f-a48a-e48d0b341018.png)
-
-
+# Test With SoapUI
+## Convert Methode
+![image](https://user-images.githubusercontent.com/62290643/197362637-b2cfc9b8-687f-4f2b-bea4-911f29181b0c.png)
+## Get Account Methode
+![image](https://user-images.githubusercontent.com/62290643/197362686-56407ce1-dc1a-4a2a-8559-24b1d14b6f10.png)
+## Get Accounts Methode
+![image](https://user-images.githubusercontent.com/62290643/197362709-82b3b631-2553-4f03-b8cf-6a2670a5f263.png)
